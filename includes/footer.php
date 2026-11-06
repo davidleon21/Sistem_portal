@@ -1,0 +1,1 @@
+/* Cabecera HTML común (incluye etiquetas <head> y nav)*/

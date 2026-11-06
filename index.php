@@ -1,0 +1,1 @@
+/* Página principal (punto de entrada) */
